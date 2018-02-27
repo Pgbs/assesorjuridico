@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "lucas_santos001993@outlook.com",
+      "Space": "dev"
+    },
+    "Name": "assessorjuridico-banese",
+    "Instrumentation": {
+      "host": "assessorjuridico-banese",
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
